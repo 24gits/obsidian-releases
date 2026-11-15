@@ -392,6 +392,13 @@
     "modes": ["dark"]
   },
   {
+    "name": "Eldritch Scholar",
+    "author": "24gits",
+    "repo": "24gits/Eldritch-Scholar",
+    "screenshot": "Pasted image 20261111201629.png",
+    "modes": ["dark"]
+  },
+  {
     "name": "Everforest",
     "author": "0xglitchbyte",
     "repo": "0xglitchbyte/obsidian_everforest",
