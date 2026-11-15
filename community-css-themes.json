@@ -392,6 +392,13 @@
     "modes": ["dark"]
   },
   {
+    "name": "Eldritch Scholar",
+    "author": "24gits",
+    "repo": "24gits/Eldritch-Scholar",
+    "screenshot": "Pasted image 20261111201629.png",
+    "modes": ["dark"]
+  },
+  {
     "name": "Everforest",
     "author": "0xglitchbyte",
     "repo": "0xglitchbyte/obsidian_everforest",
@@ -3725,13 +3732,6 @@
     "modes": ["dark"]
   },
   {
-    "name": "Lucy",
-    "author": "Gabriel Bacha",
-    "repo": "gabrielbacha/Obsidian-Lucy",
-    "screenshot": "Screenshot-1.png",
-    "modes": ["dark", "light"]
-  },
-  {
     "name": "Slytherin",
     "author": "MatheusZarkov",
     "repo": "matheuszarkov/slytherin",
@@ -5080,6 +5080,13 @@
     "author": "Dev_AbdallahAbdelrahim",
     "repo": "devabdallahabdelrahim/atom-one-pro-obsidian",
     "screenshot": "docs/assets/dark theme setting preview screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "LessWrong Inspired",
+    "author": "mario",
+    "repo": "mariohaya/lesswrong-obsidian-theme",
+    "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
   },
   {
@@ -6976,7 +6983,7 @@
     "name": "Oyaishi",
     "author": "miaobo",
     "repo": "atmiaobo/obsidian-oyaishi",
-    "screenshot": "screenshots/2026-11-09_05-22-33_full.png",
+    "screenshot": "screenshots/2026-11-12_12-30-45_full.png",
     "modes": ["dark", "light"]
   },
   {
@@ -7032,7 +7039,7 @@
     "name": "Ruined Library",
     "author": "ZombieAce",
     "repo": "zombieace/Obsidian-Library-of-Ruina-Theme",
-    "screenshot": "preview.png",
+    "screenshot": "img/preview1.png",
     "modes": ["dark", "light"]
   },
   {
@@ -7088,6 +7095,167 @@
     "name": "Optimal",
     "author": "Nuno Ricardo",
     "repo": "nunomotaricardo/obsidian-optimal-theme",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Dark Citrussy",
+    "author": "Citrussy",
+    "repo": "citrussy/Dark-Cirtussy_Obsidian-css",
+    "screenshot": "screenshot.png",
+    "modes": ["dark"]
+  },
+  {
+    "name": "Neon Alley",
+    "author": "james-s-pearson",
+    "repo": "james-s-pearson/neon-alley",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Hermes Crystal",
+    "author": "MD Fizul ahasun",
+    "repo": "faizulahasun-cloud/hermes-crystal",
+    "screenshot": "screenshot.png",
+    "modes": ["dark"]
+  },
+  {
+    "name": "Dark Glass",
+    "author": "Oleksii Mazurenko",
+    "repo": "oleksiimazurenko/obsidian-dark-glass",
+    "screenshot": "screenshot.png",
+    "modes": ["dark"]
+  },
+  {
+    "name": "TwoShadesOfGrey",
+    "author": "Ash Otis",
+    "repo": "ashotis/TwoShadesOfGrey",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Workbench",
+    "author": "Martyn Keigher",
+    "repo": "martynkeigher/obsidian-workbench",
+    "screenshot": "images/workbench-cover-split.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "OneNote Style",
+    "author": "Sundowna",
+    "repo": "sundowna/obsidian-onenote-theme",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Pure OLED Black White",
+    "author": "Rahul S",
+    "repo": "tutivsoft-com/pure-oled-black-white",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Ardentia",
+    "author": "jotafurtado",
+    "repo": "jotafurtado/ardentia",
+    "screenshot": "screenshot.png",
+    "modes": ["dark"]
+  },
+  {
+    "name": "Pure OLED Rainbow",
+    "author": "Rahul S",
+    "repo": "tutivsoft-com/obsidian-theme-pure-oled-rainbow",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Soft Slate Dark",
+    "author": "Rahul S",
+    "repo": "tutivsoft-com/obsidian-theme-soft-slate-dark",
+    "screenshot": "screenshot.png",
+    "modes": ["dark"]
+  },
+  {
+    "name": "Clear Contrast Accessible",
+    "author": "Rahul S",
+    "repo": "tutivsoft-com/obsidian-theme-clear-contrast-accessible",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Pocket Mobile",
+    "author": "Rahul S",
+    "repo": "tutivsoft-com/obsidian-theme-pocket-mobile",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Warm Paper Light",
+    "author": "Rahul S",
+    "repo": "tutivsoft-com/obsidian-theme-warm-paper-light",
+    "screenshot": "screenshot.png",
+    "modes": ["light"]
+  },
+  {
+    "name": "E Ink Reader",
+    "author": "Rahul S",
+    "repo": "tutivsoft-com/obsidian-theme-e-ink-reader",
+    "screenshot": "screenshot.png",
+    "modes": ["light"]
+  },
+  {
+    "name": "Study Outline",
+    "author": "Rahul S",
+    "repo": "tutivsoft-com/obsidian-theme-study-outline",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Readable Typography",
+    "author": "Rahul S",
+    "repo": "tutivsoft-com/obsidian-theme-readable-typography",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Report Print",
+    "author": "Rahul S",
+    "repo": "tutivsoft-com/obsidian-theme-report-print",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Color Notes",
+    "author": "Rahul S",
+    "repo": "tutivsoft-com/obsidian-theme-color-notes",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Ice Block",
+    "author": "Alan",
+    "repo": "salanmato/obsidian-ice-block",
+    "screenshot": "screenshot_01.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Flexoki Refined",
+    "author": "Silas Johnson",
+    "repo": "siguyjohn/Flexoki-Refined",
+    "screenshot": "screenshot 2.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Coffee Gold",
+    "author": "Rahul S",
+    "repo": "tutivsoft-com/obsidian-theme-coffee-gold",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Ardoise",
+    "author": "Eddy",
+    "repo": "generalentropy/obsidian-ardoise",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
   }
